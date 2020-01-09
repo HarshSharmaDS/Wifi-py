@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wifi-analytics-251106",
+  "private_key_id": "a9e4f34ee68d9a1b6985688483c36e24f8a41bcb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDlQZ1PkPWAgCcX\nBSQJbk3AetPkurBS1mEIeAYJ/lnTc3rPis69S7KrwYL6fI78K+UKFAB537hHW86g\nGcW7IAuu9A3zdMAYzJDcfuEgQYujCPx2OC+oRDqIvb44ZHU/P3KWg3ypuRZAb6kI\nmiTWyUuUShTtRNQuy+a6mytsdOkZsF4gEie23jWJiIRcqbmL1duNazQK5MHJCwjx\nvFMp/SaSws9zbXeOreNEg/fNWnpepUYXlejzDlKFxhmbFsGBQqUtBOOC9yEodpbU\ngpjyyoiaW/ZMe6/uz9IJ7CDntDKKVjtbg32pHQ+RijxbN8KhU40c7sJsD4kAJElb\nPmoscPItAgMBAAECggEABgSEJNHFA++5NvM5WC8HRvFibPtShAYhC2gdHneI85Ix\nK8/0r8bUJIqCjeElnqxnSW2veoN7EpJwGMc8Z7ZGYDwDPrv2i+AYwFTrQ129FNU4\nTUEZzSSnVa4HV3MZmcSoVReT9t+HHD9iFDn5lBK6E2Ujafv3xteu0YCfsevar4Qj\nI7VTw5V/xT82LWaUFEtthJUbbn/AQ5V2OQmmd0Uan0IqIQ1qNJIwm7TTE0n82+YG\ntW2hMiQG5QxXDnW5WBsuAmjAE3novFTdemnil+YzXuxOSRgGpLzbtqCmbCEHICDm\naiIMuTitDOjKNnBwnWkTun4kfXqUO8JWVN/CSAuo2QKBgQD/zOqreveoJ0Zqq/Iq\nBqxMKy7QOhx7ZymHWeGdkmYdxtzZJHckdRl1oPh13QESTKzuFxu5qrPAOrOHTIJU\nQnYBmrSBTFcVbCflf4GYD/vogHTfGbFd78MMEAgR7hfF4N4nG8C0xczioE/iBR/K\n8veLN+VmxA7uCpBbTjF3sBtoVQKBgQDlb2WesrDQdol3/Eb8EBSkZwQ/Q/nBEXMd\nJIqIz389bFptVCCDPm1f7RHiIZkKVVODuSTunoWl9oKmuXZIlmk2g4FiJHjNKPcI\nDM++lWEYGj+a1zjt6nBNEMqkC/XAFklhvWdb4Jy86J7Si5Hzdk1BBPCCJOw5Ixra\n3AoiP1QaeQKBgDiKfNyGg7NhawktFIwBiZgUe3Z/QchtFxrZ3SrNL1EpoatFiig+\n0e/UMtcqkJAQ7rB53yD9AFpfH0uqt6wUPK1CGt/xldYgX/k0Y9rOvam4qxydOz0+\nP+isqnv8GrkcaT5Pvhq3FgCJ2t5kr5BWgCz/n+9FKt+m6h2kfP6tqIE5AoGBANO7\nOcx6mzHGMpbH+bokHOibKRA5awMBV3pNfotC8el9VPYP7PExaz5bSWWmG9WtaKTm\n924+XJgMJgY2oTHbnLzyHzSy88hhRZfoOs9mi3PyxT/f3mmxMHHuTROW9fOOnanV\nYM0pO3waMHec1dQYGLMoG8v+xwDzpJTU+4UfbD4BAoGAFC2WhwG56S1DN0aS9x/+\nCMiG15cV6oeY+s+3MTvHBNRpIkM/t4xk7aUFqG72Sp3fjI6gZoDUjf0uOWDzva63\nBrp1JKqhtnZgjUuSYp5DrxuRhc4jY8F9539+sMQX21WPtWTt4U7MzbN2xNWSUDWg\nZdgQ0o/iIMGkkBdkoEPJ7zc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gdp-709@wifi-analytics-251106.iam.gserviceaccount.com",
+  "client_id": "115602565587370691108",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gdp-709%40wifi-analytics-251106.iam.gserviceaccount.com"
+}
